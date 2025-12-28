@@ -1,4 +1,3 @@
-
 {
   "name": "lacbag-landing-page",
   "private": true,
@@ -11,12 +10,12 @@
   },
   "dependencies": {
     "react": "^19.2.3",
-    "react-dom": "^19.2.3",
-    "@google/genai": "^1.34.0"
+    "react-dom": "^19.2.3"
   },
   "devDependencies": {
     "@types/react": "^19.2.3",
     "@types/react-dom": "^19.2.3",
+    "vitejs/plugin-react": "^4.3.4",
     "typescript": "^5.0.0",
     "vite": "^6.0.0",
     "autoprefixer": "^10.4.14",
